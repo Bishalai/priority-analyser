@@ -57,8 +57,8 @@ Detailed documentation of API can be found at `/docs`
 [CSS]: https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=1572B6&logoColor=ffffff
 [Git]: https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff
 [Visual Studio Code]: https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff
-[ModelGraph]: ./admission/graphs/rank_models_visualized_1.svg "Rank Models"
-[RankGraph]: ./admission/graphs/rank_app_visualized_1.svg "Rank App"
+[ModelGraph]: ./priority-analyzer-main/admission/graphs/rank_models_visualized_1.svg "Rank Models"
+[RankGraph]: ./priority-analyzer-main/admission/graphs/rank_app_visualized_1.svg "Rank App"
 
 
 This is a frontend for **BE Admission Rank and Priority Analyzer** project. This project was done as an academic project assigned by the Department of Electronics and Computer Engineering, Pulchowk Campus under the subject Database Management System and Software Engineering.
@@ -93,7 +93,7 @@ This is a frontend for **BE Admission Rank and Priority Analyzer** project. This
 [CSS]: https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=1572B6&logoColor=ffffff
 [Git]: https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff
 [Visual Studio Code]: https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff
-[PredictionPage]: ./images/prediction.png "Prediction Page"
-[AnalysisPage]: ./images/analysis.png "Analysis Page"
-[RankPage]: ./images/rank.png "Rank Page"
-[LocationPage]: ./images/location.png "Location Page"
+[PredictionPage]: ./priority-analyser-frontend-master/images/prediction.png "Prediction Page"
+[AnalysisPage]: ./priority-analyser-frontend-master/images/analysis.png "Analysis Page"
+[RankPage]: ./priority-analyser-frontend-master/images/rank.png "Rank Page"
+[LocationPage]: ./priority-analyser-frontend-master/images/location.png "Location Page"
