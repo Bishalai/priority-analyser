@@ -1,5 +1,6 @@
 # priority-analyser
 
+## backend
 
 This  is a backend for **BE Admission Rank and Priority Analyzer** project. This project was done as an academic project assigned by the Department of Electronics and Computer Engineering, Pulchowk Campus under the subject Database Management System and Software Engineering.
 
@@ -60,6 +61,7 @@ Detailed documentation of API can be found at `/docs`
 [ModelGraph]: ./priority-analyzer-main/admission/graphs/rank_models_visualized_1.svg "Rank Models"
 [RankGraph]: ./priority-analyzer-main/admission/graphs/rank_app_visualized_1.svg "Rank App"
 
+## frontend
 
 This is a frontend for **BE Admission Rank and Priority Analyzer** project. This project was done as an academic project assigned by the Department of Electronics and Computer Engineering, Pulchowk Campus under the subject Database Management System and Software Engineering.
 
