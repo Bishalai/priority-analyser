@@ -12,10 +12,6 @@ This  is a backend for **BE Admission Rank and Priority Analyzer** project. This
 ![Git][Git]&nbsp;
 ![Visual Studio Code][Visual Studio Code]&nbsp;
 
-## Links (courtesy of the seniors)
-
-> - Frontend : <https://github.com/Atomnp/priority-analyser-frontend>
-> - Backend : <https://github.com/ashishlamsal/priority-analyzer>
 
 
 ## Database Visualization
@@ -99,3 +95,8 @@ This is a frontend for **BE Admission Rank and Priority Analyzer** project. This
 [AnalysisPage]: ./priority-analyser-frontend-master/images/analysis.png "Analysis Page"
 [RankPage]: ./priority-analyser-frontend-master/images/rank.png "Rank Page"
 [LocationPage]: ./priority-analyser-frontend-master/images/location.png "Location Page"
+
+## Links (link of the seniors)
+> - Frontend : <https://github.com/Atomnp/priority-analyser-frontend>
+> - Backend : <https://github.com/ashishlamsal/priority-analyzer>
+
