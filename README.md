@@ -25,7 +25,7 @@ This  is a backend for **BE Admission Rank and Priority Analyzer** project. This
 ## Usage
 
 ```powershell
-    git clone https://github.com/ashishlamsal/priority-analyzer.git
+    git clone https://github.com/ashishlamsal/priority-analyzer.git  or git clone this repo and cd priority-analyzer-main/ 
     cd priority-analyzer/
     python -m venv venv
     ./venv/Scripts/activate
